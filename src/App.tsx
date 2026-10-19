@@ -17,9 +17,7 @@ function App() {
         </div>
         <div>
           <h1>Get started</h1>
-          <p>
-          A tiny change in code
-          </p>
+          <p>A tiny change in code</p>
         </div>
         <button
           type="button"
